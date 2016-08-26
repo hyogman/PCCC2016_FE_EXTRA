@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+	margin:40px;
+}
+
+.search {
+	margin: 40px; 
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+	margin:10px;
+	color:black;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+/*
+.prompt {
+	opacity:0;
+	width:0;
+}
+
+.prompt:hover {
+	opacity:1; 
+	width: 100%;
+	transition: width 2s;
+}
+*/
